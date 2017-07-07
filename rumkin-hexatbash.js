@@ -3,6 +3,8 @@
 // @version      0.1
 // @description  letter-pair replacement solver - hex atbash helper
 // @author       Ninjaburger
+// @updateURL    https://raw.githubusercontent.com/Ninjaburger/userscripts/master/rumkin-hexatbash.js
+// @downloadURL  https://raw.githubusercontent.com/Ninjaburger/userscripts/master/rumkin-hexatbash.js
 // @match        http://rumkin.com/tools/cipher/cryptogram.php?hexatbash
 // @require      http://code.jquery.com/jquery-latest.min.js
 // ==/UserScript==
